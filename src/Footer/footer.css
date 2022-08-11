@@ -1,0 +1,26 @@
+.footer{
+    display: flex;
+    flex-direction: row ;
+    justify-content: center;
+    background: #161619;
+    color: white;
+    padding: 0.8rem;
+    border-radius: 0px 0px 10px 10px;
+
+}
+.socials{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 1.5rem;
+}
+.socials a{
+    background-color: #918E9B;
+    width: 25px;
+    height: 25px;
+    padding-top: 4px;
+    border-radius: 2px;
+    color: #000;
+    font-weight: bold;
+    font-size: 20px;
+}
